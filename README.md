@@ -1,1 +1,1 @@
-# kyrychuk_olexandr_vizytka.github.io
+# vizytka.github.io
